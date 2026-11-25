@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بيت الجدة — الهروب</string>
+    <string name="title">بيت الجدة</string>
+    <string name="subtitle">لعبة هروب ورعب — اجمع 4 أغراض واهرب قبل اليوم الخامس</string>
+    <string name="start">ابدأ اللعب</string>
+    <string name="how">كيف تلعب؟</string>
+    <string name="how_text">• حرّك إصبعك على الجهة اليسرى للتحكم باللاعب.\n• اجمع: مفتاح الباب 🔑، المطرقة 🔨، البطارية 🔋، ورقة الرمز 📄.\n• إذا جمعت الأربعة، اذهب إلى باب الخروج الأخضر.\n• الجدّة تسمعك إذا ركضت، وتطاردك إذا رأتك.\n• اختبئ في الخزانة بالزر الأيمن عندما تقترب منك.\n• إذا أمسكت بك تخسر يوماً، وعند اليوم الخامس تنتهي اللعبة.</string>
+    <string name="easy">سهل</string>
+    <string name="normal">عادي</string>
+    <string name="hard">صعب</string>
+    <string name="day">اليوم</string>
+    <string name="items">الأغراض</string>
+    <string name="time">الوقت</string>
+    <string name="hide">اختبئ</string>
+    <string name="pause">إيقاف</string>
+    <string name="resume">استئناف</string>
+    <string name="restart">إعادة اللعب</string>
+    <string name="menu">القائمة</string>
+    <string name="win">هربت بنجاح! 🎉</string>
+    <string name="win_text">خرجت من بيت الجدة قبل انتهاء الأيام.</string>
+    <string name="lose">انتهت الأيام الخمسة…</string>
+    <string name="lose_text">أمسكت بك الجدة في اليوم الأخير. حاول مرة أخرى!</string>
+    <string name="caught">أمسكت بك الجدة!</string>
+    <string name="best">أفضل وقت</string>
+</resources>

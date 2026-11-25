@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.EscapeHouse" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#8B0000</item>
+        <item name="colorPrimaryDark">#1A0A0A</item>
+        <item name="android:windowBackground">#0D0D0D</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
