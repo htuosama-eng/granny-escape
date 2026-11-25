@@ -298,7 +298,7 @@ class GameView @JvmOverloads constructor(
     }
 
     private fun drawGame() {
-        val canvas: Canvas? = try { holder.lockCanvas() } catch (e: Exception) { null } ?: return
+        val canvas: Canvas = try { holder.lockCanvas() } catch (e: Exception) { null } ?: return
         try {
             canvas.drawColor(Color.parseColor("#0D0D0D"))
             val now = System.currentTimeMillis()
